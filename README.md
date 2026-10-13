@@ -1,1 +1,1 @@
-# Yolo_V12-training
+# Yolo_V11-training
